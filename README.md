@@ -5,4 +5,7 @@
 
 ### `In this project first the features are extracted with SIFT and  The extracted features can then be clustered into various bins using a clustering algorithm such as k-means  Finally, the features are be used to train a  classifier  SVM.`
 
+
+
+#OUTPUT RESULTS:>>>
 ![result](https://user-images.githubusercontent.com/98689629/210064707-a3622e9b-8c86-46c3-9ddb-afcd893b1728.png)
